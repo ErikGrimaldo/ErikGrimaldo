@@ -1,4 +1,4 @@
-## Hi there Mi nombre es : Erik Humberto Grimaldo 👋
+## Hi there Mi nombre es : Erik Grimaldo 👋
 
 <!--
 **ErikGrimaldo/ErikGrimaldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
